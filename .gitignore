@@ -23,3 +23,8 @@
 hs_err_pid*
 
 nohup.out
+
+.gradle
+.vscode
+bin
+build
